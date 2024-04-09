@@ -1,9 +1,8 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 Git basic exercises
-=======
+
 # Git basic exercises:
->>>>>>> milkshake-flavours
-=======
+ milkshake-flavours
+
 booya
->>>>>>> history
+ history
