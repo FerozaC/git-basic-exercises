@@ -1,1 +1,1 @@
-Git basic exercise
+Git basic exercises
